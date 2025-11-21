@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AppFable Terms of Service
 ---
 
@@ -34,7 +34,7 @@ To access certain features, you may be required to register for an account. You 
 Users of the App agree not to:
 
 * Violate any applicable law or regulation.
-* Interfering with or disrupting the integrity or performance of the App.
+* Interfere with or disrupt the integrity or performance of the App.
 * Attempt to gain unauthorized access to the App, its servers, or networks.
 * Use the App to distribute viruses, worms, or other harmful computer code.
 

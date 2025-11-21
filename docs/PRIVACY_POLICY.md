@@ -1,7 +1,9 @@
 ---
-layout: page
-title: AppFable Mobile Application Privacy Policy
+layout: default
+title: AppFable Privacy Policy
 ---
+
+# 📄 AppFale Mobile Application Privacy Policy
 
 Welcome to AppFable’s Privacy Policy. We take your information security very seriously and aim to provide the best possible security measures for the data you share with us. This policy explains how we **collect, use, and protect your information** when you use our mobile application (the "Service").
 

@@ -68,6 +68,20 @@ We may employ third-party companies and individuals (such as Google Firebase, ad
 
 ---
 
+## 🗑️ Data Deletion and Account Removal
+
+You have the right to request the deletion of your user account and associated data at any time. If you wish to delete your account, please contact us at **appfable@gmail.com** with the subject line "Account Deletion Request".
+
+We will process your request and permanently delete your account and personal information within 30 days, retaining only data we are required to keep by law (such as billing records).
+
+---
+
+## 🧸 Children’s Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+
+---
+
 ## 🔒 Security
 
 We use **strong security measures** to protect your personal information against unauthorized third-party access. However, no method for providing security to your information on the internet is 100% secure.

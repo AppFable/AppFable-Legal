@@ -74,7 +74,7 @@ We may terminate or suspend your access to the App immediately, without prior no
 
 ## 10. Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of the **Islamic Republic of Pakistan**, without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of **Pakistan**, without regard to its conflict of law provisions.
 
 ---
 

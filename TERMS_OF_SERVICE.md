@@ -3,6 +3,8 @@ layout: default
 title: AppFable Terms of Service
 ---
 
+[**🔒 View Privacy Policy**](PRIVACY_POLICY.html)
+
 # ⚖️ Terms of Service for AppFable
 
 These Terms of Service ("Terms") constitute a legally binding agreement between you, the user, and AppFable ("Company," "we," "us," or "our"), governing your use of our mobile application (the "App" or "Service"). By downloading, installing, or using the App, you agree to be bound by these Terms.

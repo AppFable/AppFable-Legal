@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hides the View on GitHub and Download buttons */
+.page-header .btn {
+  display: none !important;
+}

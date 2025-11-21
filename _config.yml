@@ -1,6 +1,6 @@
 # GitHub Pages Configuration
-remote_theme: jekyll/minima
+theme: jekyll-theme-cayman
 
-# Site Metadata (Appears in the browser tab and footer)
-title: AppFable Legal
-description: Official legal documentation for the AppFable mobile application.
+# Site Metadata
+title: AppFable Legal Documents
+description: Official Privacy Policy and Terms of Service for the AppFable mobile application.

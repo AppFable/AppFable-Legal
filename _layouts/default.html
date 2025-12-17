@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        /* Specific overrides for markdown content */
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1;
+            padding: 8rem 5% 4rem;
+            /* Top padding to clear fixed navbar */
+            max-width: 900px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #ffffff;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1rem;
+        }
+
+        p,
+        ul,
+        ol {
+            margin-bottom: 1.5rem;
+            color: var(--secondary-text);
+        }
+
+        ul,
+        ol {
+            padding-left: 2rem;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid var(--border-color);
+            margin: 2rem 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+        }
+
+        th,
+        td {
+            border: 1px solid var(--border-color);
+            padding: 0.75rem;
+        }
+
+        th {
+            background-color: var(--card-bg);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">
+            <img src="assets/appfable_logo.png" alt="AppFable Logo" style="height: 40px;">
+        </a>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="PRIVACY_POLICY.html">Privacy</a>
+            <a href="TERMS_OF_SERVICE.html">Terms</a>
+        </div>
+    </nav>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="footer-links">
+            <a href="PRIVACY_POLICY.html">Privacy Policy</a>
+            <a href="TERMS_OF_SERVICE.html">Terms of Service</a>
+        </div>
+        <p class="copyright">&copy; 2024 AppFable. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
